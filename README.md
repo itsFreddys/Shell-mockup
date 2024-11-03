@@ -1,6 +1,6 @@
 Shell Replica
 
-This C program simulates a basic shell, proving a command-line interface to execute various commands.
+This C program simulates a basic shell, providing a command-line interface to execute various commands.
 
 - Shell commands
   - pwd: Prints the current working directory.
